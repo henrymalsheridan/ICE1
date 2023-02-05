@@ -65,11 +65,11 @@ public class CardTrick {
         System.out.println("Congratulations, you guessed right!");
         System.out.println();
         
-        System.out.println("My name is Malik");
+        System.out.println("My name is Malik Henry");
         System.out.println();
         
         System.out.println("My career ambitions:");
-        System.out.println("-- Be sucessful");
+        System.out.println("-- Complete this program");
         System.out.println("-- Finish the semester with a 3.0 gpa");
 	System.out.println();	
 
